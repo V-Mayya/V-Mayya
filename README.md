@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **SQL, Python and R**.
 - 💞️ I’m looking to collaborate on interesting projects in the realms of **data science** and **machine learning** along with its applications in finance and economics.
-- 📫 You can reach me on [Linkedin](www.linkedin.com/in/vaibhavi-c-mayya). 
+- 📫 You can reach me on ![Linkedin](www.linkedin.com/in/vaibhavi-c-mayya). 
 - I have some experience with: • STATA (statistical software) **•SQL •Python •HTML&CSS •Javascript •Tableau**
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
