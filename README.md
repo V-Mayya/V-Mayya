@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2370F7&background=EBFFA0F6&center=true&vCenter=true&width=435&lines=I'm+V-Mayya+%F0%9F%91%A9;Economics+Student+%F0%9F%93%9A;Interested+in+Econometrics%2C;Data+Science%2C+;Machine+Learning+%26+AI+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB!++)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning SQL, Python and R.
-- 💞️ I’m looking to collaborate on interesting projects in the realms of data science and machine learning along with its applications in finance and economics.
+- ## 🌱 I’m currently learning SQL, Python and R.
+- ## 💞️ I’m looking to collaborate on interesting projects in the realms of data science and machine learning along with its applications in finance and economics.
 - 📫 You can reach me on Linkedin www.linkedin.com/in/vaibhavi-c-mayya. 
 - I have some experience with: • STATA (statistical software) •SQL •Python •HTML&CSS •Javascript •Tableau
 <!---
