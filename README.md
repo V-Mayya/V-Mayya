@@ -1,4 +1,4 @@
-<img src = "https://images.unsplash.com/photo-1579548122080-c35fd6820ecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80" width = "500" height = "100"/>
+<img src = "https://images.unsplash.com/photo-1579548122080-c35fd6820ecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80" width = "1500" height = "100"/>
 
 # Hi <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47gs0y9jp64dcs2f2ti9tf7845t8zm62ic0myotppe&rid=giphy.gif&ct=s" width="55" height="50" />
 
