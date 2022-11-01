@@ -1,5 +1,3 @@
-<img src = "https://images.unsplash.com/photo-1579548122080-c35fd6820ecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80" width = "1500" height = "100"/>
-
 # Hi <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47gs0y9jp64dcs2f2ti9tf7845t8zm62ic0myotppe&rid=giphy.gif&ct=s" width="55" height="50" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=I'm+V-Mayya+%F0%9F%91%A9;Economics+Student+%F0%9F%93%9A;Interested+in+Econometrics%2C;Data+Science%2C;Machine+Learning+%26+AI+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB!+)](https://git.io/typing-svg)
