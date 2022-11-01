@@ -6,7 +6,9 @@
  
 - 🌱 I’m currently learning **SQL, Python and R**.
 - 💞️ I’m looking to collaborate on interesting projects in the realms of **data science** and **machine learning** along with its applications in finance and economics.
-- 📫 You can reach me on: <div id="badges"> <a href="https://www.linkedin.com/in/vaibhavi-c-mayya"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a></div> 
+- 📫 You can reach me on: 
+
+<div id="badges"> <a href="https://www.linkedin.com/in/vaibhavi-c-mayya"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a></div> 
    
 
 ---
