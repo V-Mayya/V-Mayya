@@ -9,12 +9,6 @@
 - 📫 You can reach me on: 
 
    <div id="badges"> <a href="https://www.linkedin.com/in/vaibhavi-c-mayya"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a></div> 
-   
-<iframe
-  src="https://carbon.now.sh/embed/"
-  style="width: 742px; height: 614px; border:0; transform: scale(1); overflow:hidden;"
-  sandbox="allow-scripts allow-same-origin">
-</iframe>
 
 ---
 - I have some experience with: **• STATA (statistical software) •SQL •Python •HTML&CSS •Javascript •Tableau**
