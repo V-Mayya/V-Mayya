@@ -23,7 +23,7 @@
 
 Some of my projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v_mayya&repo=sql-project.git)](https://github.com/V-Mayya/sql-project.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=V_Mayya&repo=sql-project.git)](https://github.com/V-Mayya/sql-project.git)
 
 <!---
 V-Mayya/V-Mayya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
