@@ -27,7 +27,8 @@
 
 💻 A few projects I've worked on:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp; Resale Revolution - Web application to address an issue faced by first generation low income students (with Matplotlib, Numpy, Pandas, SQLite, Streamlit and some HTML) | Sales data analysis project (with Matplotlib and Numpy)
+
 - **Python:** Resale Revolution - Web application to address an issue faced by first generation low income students (with Matplotlib, Numpy, Pandas, SQLite, Streamlit and some HTML) | Sales data analysis project (with Matplotlib and Numpy)
 
 - **SQL:** Natural Disasters & Economic Impact Project (after reading ‘Extreme Economies’) | F1 racing MOOC challenge
