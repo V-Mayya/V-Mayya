@@ -21,6 +21,7 @@
 &nbsp; HTML, CSS: Responsive web design projects
 &nbsp; Swift & Xcode: IOS educational app (currently not maintained) 
 ---
+
 - I have some experience with: **•Python •SQL •STATA (statistical software) •HTML&CSS •Javascript •Tableau •R**
 
 <br> 
