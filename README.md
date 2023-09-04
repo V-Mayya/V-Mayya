@@ -27,16 +27,13 @@
 
 💻 A few projects I've worked on:
 
-- **Python:** Resale Revolution - Web application to address an issue faced by first generation low income students (with Matplotlib, Numpy, Pandas, SQLite, Streamlit and some HTML) | Sales data analysis project (with Matplotlib and Numpy) 
-- **SQL:** Natural Disasters & Economic Impact Project (after reading ‘Extreme Economies’) | F1 racing MOOC challenge 
-- **R:** Economic perspectives of climate effects on health (using distributed lag non-linear models & meta-regressions) (while working as a MITACs research intern)  
-- **Others:** 
-<br> 
-<u>STATA</u>: Statistical and Econometric Analysis of the determinants of dealer profits & variables that influence earnings (using multiple regression analysis and testing for heteroskedasticity, multicollinearity and others)
-<br> 
-&nbsp; HTML, CSS: Responsive web design projects
-<br> 
-&nbsp; Swift & Xcode: IOS educational app (currently not maintained) 
+- **Python:** Resale Revolution - Web application to address an issue faced by first generation low income students (with Matplotlib, Numpy, Pandas, SQLite, Streamlit and some HTML) | Sales data analysis project (with Matplotlib and Numpy)
+
+- **SQL:** Natural Disasters & Economic Impact Project (after reading ‘Extreme Economies’) | F1 racing MOOC challenge
+
+- **R:** Economic perspectives of climate effects on health (using distributed lag non-linear models & meta-regressions) (while working as a MITACs research intern)
+ 
+- **Others:** <u>STATA</u>: Statistical and Econometric Analysis of the determinants of dealer profits & variables that influence earnings (using multiple regression analysis and testing for heteroskedasticity, multicollinearity and others). <u>HTML, CSS</u>: Responsive web design projects. <u> Swift & Xcode </u>: IOS educational app (currently not maintained) 
 
 <!---
 V-Mayya/V-Mayya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
