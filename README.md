@@ -40,9 +40,7 @@ A few projects I've worked on:
  
 - **Others**:
     - STATA: Statistical and Econometric Analysis of the determinants of dealer profits & variables that influence earnings (using multiple regression analysis and testing for heteroskedasticity, multicollinearity and others).
- 
-    - HTML, CSS: Responsive web design projects.
-
+    - HTML, CSS: Responsive web design projects
     - Swift & Xcode: IOS educational app (currently not maintained) 
 
 <!---
