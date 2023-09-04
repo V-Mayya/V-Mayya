@@ -17,8 +17,11 @@
 - **SQL:** Natural Disasters & Economic Impact Project (after reading ‘Extreme Economies’) | F1 racing MOOC challenge 
 - **R:** Economic perspectives of climate effects on health (using distributed lag non-linear models & meta-regressions) (while working as a MITACs research intern)  
 - **Others:** 
-&nbsp; STATA: Statistical and Econometric Analysis of the determinants of dealer profits & variables that influence earnings (using multiple regression analysis and testing for heteroskedasticity, multicollinearity and others) 
+<br> 
+<u>STATA</u>: Statistical and Econometric Analysis of the determinants of dealer profits & variables that influence earnings (using multiple regression analysis and testing for heteroskedasticity, multicollinearity and others)
+<br> 
 &nbsp; HTML, CSS: Responsive web design projects
+<br> 
 &nbsp; Swift & Xcode: IOS educational app (currently not maintained) 
 ---
 
