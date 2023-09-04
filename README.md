@@ -26,16 +26,14 @@
  ---
 
 - A few projects I've worked on:
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp; 
-Resale Revolution - Web application to address an issue faced by first generation low income students (with Matplotlib, Numpy, Pandas, SQLite, Streamlit and some HTML) | Sales data analysis project (with Matplotlib and Numpy)
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; 
-Natural Disasters & Economic Impact Project (after reading ‘Extreme Economies’) | F1 racing MOOC challenge
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp; Economic perspectives of climate effects on health (using distributed lag non-linear models & meta-regressions) (while working as a MITACs research intern)
+  
+- **Python:** Resale Revolution - Web application to address an issue faced by first generation low income students (with Matplotlib, Numpy, Pandas, SQLite, Streamlit and some HTML) | Sales data analysis project (with Matplotlib and Numpy)
  
-- Others:
+- **SQL:** Natural Disasters & Economic Impact Project (after reading ‘Extreme Economies’) | F1 racing MOOC challenge
+
+- **R:** Economic perspectives of climate effects on health (using distributed lag non-linear models & meta-regressions) (while working as a MITACs research intern)
+ 
+- **Others**:
     - STATA: Statistical and Econometric Analysis of the determinants of dealer profits & variables that influence earnings (using multiple regression analysis and testing for heteroskedasticity, multicollinearity and others).
  
     - HTML, CSS: Responsive web design projects.
