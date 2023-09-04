@@ -39,7 +39,7 @@ A few projects I've worked on:
     - Economic perspectives of climate effects on health (using distributed lag non-linear models & meta-regressions) (while working as a MITACs research intern)
  
 - **Others**:
-    - STATA: Statistical and Econometric Analysis of the determinants of dealer profits & variables that influence earnings (using multiple regression analysis and testing for heteroskedasticity, multicollinearity and others).
+    - STATA: Statistical and Econometric Analysis of the determinants of dealer profits & variables that influence earnings (using multiple regression analysis and resolving heteroskedasticity, multicollinearity, specification bias and more)
     - HTML, CSS: Responsive web design projects
     - Swift & Xcode: IOS educational app (currently not maintained) 
 
