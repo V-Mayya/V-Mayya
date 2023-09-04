@@ -35,7 +35,7 @@ Natural Disasters & Economic Impact Project (after reading â€˜Extreme Economiesâ
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp; Economic perspectives of climate effects on health (using distributed lag non-linear models & meta-regressions) (while working as a MITACs research intern)
  
-- **Others**:
+Others:
     - STATA: Statistical and Econometric Analysis of the determinants of dealer profits & variables that influence earnings (using multiple regression analysis and testing for heteroskedasticity, multicollinearity and others).nbsp;
     - HTML, CSS: Responsive web design projects.nbsp;
     - Swift & Xcode: IOS educational app (currently not maintained) 
