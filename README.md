@@ -25,7 +25,7 @@
 
  ---
 
-- A few projects I've worked on:
+A few projects I've worked on:
   
 - **Python:** Resale Revolution - Web application to address an issue faced by first generation low income students (with Matplotlib, Numpy, Pandas, SQLite, Streamlit and some HTML) | Sales data analysis project (with Matplotlib and Numpy)
  
