@@ -36,7 +36,7 @@ Here are a few projects I've worked on:
     - **F1 racing** MOOC challenge 🏎️
 
 - **R:**
-    - Mathematical modelling (using distributed lag non-linear models & meta-regressions) focusing on the economic perspectives of **climate effects** on health (while working as a MITACs research intern) ⛅
+    - Mathematical modelling (using distributed lag non-linear models & meta-regressions) focusing on the economic perspectives of **climate effects on health** (while working as a MITACs research intern) ⛅
  
 - **Others**:
     - STATA: Statistical and Econometric Analysis of the determinants of **dealer profits** & variables that influence **earnings** (using multiple regression analysis and considering heteroskedasticity, multicollinearity, specification bias and more) 🏫 
