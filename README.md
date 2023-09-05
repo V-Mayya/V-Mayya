@@ -23,6 +23,26 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3"  alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;
 
+---
+
+Here are a few projects I've worked on:
+  
+- **Python:**
+    - Resale Revolution - **web application** to address an issue faced by first generation low income students (with Matplotlib, Numpy, Pandas, SQLite, Streamlit and some HTML)
+    - **Sales data analysis** project (with Matplotlib and Numpy) 📈
+ 
+- **SQL:**
+    - **Natural Disasters** & Economic Impact Project (after reading ‘Extreme Economies’)
+    - **F1 racing** MOOC challenge 🏎️
+
+- **R:**
+    - Mathematical modelling (using distributed lag non-linear models & meta-regressions) focusing on the economic perspectives of **climate effects on health** (while working as a MITACs research intern) ⛅
+ 
+- **Others**:
+    - STATA: Statistical and Econometric Analysis of the determinants of **dealer profits** & variables that influence **earnings** (using multiple regression analysis and considering heteroskedasticity, multicollinearity, specification bias and more) 🏫 
+    - HTML, CSS: Responsive web design projects
+    - Swift & Xcode: The Sciences - IOS **educational app** (currently not maintained) 
+
 <!---
 V-Mayya/V-Mayya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
