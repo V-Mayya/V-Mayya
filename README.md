@@ -25,21 +25,21 @@
 
  ---
 
-A few projects I've worked on:
+Here are a few projects I've worked on:
   
 - **Python:**
     - Resale Revolution - Web application to address an issue faced by first generation low income students (with Matplotlib, Numpy, Pandas, SQLite, Streamlit and some HTML)
-    - Sales data analysis project (with Matplotlib and Numpy)
+    - 📈 Sales data analysis project (with Matplotlib and Numpy)
  
 - **SQL:**
     - Natural Disasters & Economic Impact Project (after reading ‘Extreme Economies’)
-    - F1 racing MOOC challenge
+    - 🏎️ F1 racing MOOC challenge
 
 - **R:**
-    - Economic perspectives of climate effects on health (using distributed lag non-linear models & meta-regressions) (while working as a MITACs research intern)
+    - ⛅ Economic perspectives of climate effects on health (using distributed lag non-linear models & meta-regressions) (while working as a MITACs research intern)
  
 - **Others**:
-    - STATA: Statistical and Econometric Analysis of the determinants of dealer profits & variables that influence earnings (using multiple regression analysis and resolving heteroskedasticity, multicollinearity, specification bias and more)
+    - STATA: 🏫 Statistical and Econometric Analysis of the determinants of dealer profits & variables that influence earnings (using multiple regression analysis and resolving heteroskedasticity, multicollinearity, specification bias and more)
     - HTML, CSS: Responsive web design projects
     - Swift & Xcode: IOS educational app (currently not maintained) 
 
