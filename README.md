@@ -10,8 +10,6 @@
 
    <div id="badges"> <a href="https://www.linkedin.com/in/vaibhavi-c-mayya"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a></div> 
 
-![](https://komarev.com/ghpvc/?username=V-Mayya) 
-
 ---
 
 - I have some experience with: **•Python •SQL •STATA (statistical software) •HTML&CSS •Javascript •Tableau •R**
@@ -44,6 +42,8 @@ Here are a few projects I've worked on:
     - STATA: Statistical and Econometric Analysis of the determinants of **dealer profits** & variables that influence **earnings** (using multiple regression analysis and considering heteroskedasticity, multicollinearity, specification bias and more) 🏫 
     - HTML, CSS: Responsive web design projects
     - Swift & Xcode: The Sciences - IOS **educational app** (currently not maintained) 
+
+![](https://komarev.com/ghpvc/?username=V-Mayya) 
 
 <!---
 V-Mayya/V-Mayya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
