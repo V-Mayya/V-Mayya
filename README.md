@@ -46,9 +46,11 @@ Here are a few projects I've worked on:
 ---
 
 <div align="center"> 
+ 
 ![](https://komarev.com/ghpvc/?username=V-Mayya) 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=V-Mayya&theme=nightfox&border_radius=30&hide_current_streak=true)](https://git.io/streak-stats)
+
 </div>
 
 <!---
