@@ -45,7 +45,7 @@ Here are a few projects I've worked on:
 
 ![](https://komarev.com/ghpvc/?username=V-Mayya) 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=V-Mayya&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=V-Mayya&theme=dark&hide_current_streak=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Mayya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
