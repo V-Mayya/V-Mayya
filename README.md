@@ -1,9 +1,10 @@
-<div align="center">
 # Hi <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47gs0y9jp64dcs2f2ti9tf7845t8zm62ic0myotppe&rid=giphy.gif&ct=s" width="55" height="50" /> 
 
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=I'm+V-Mayya+%F0%9F%91%A9;Economics+Student+%F0%9F%93%9A;Interested+in+Econometrics%2C;Data+Science%2C;Machine+Learning+%26+AI+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB!+)](https://git.io/typing-svg) 
 
 <img src="chrisriedunsplash.jpeg" width="435" height="250" /> 
+</div> 
   
 - 🌱 I’m currently learning **SQL, Python and R**.
 - 💞️ I’m looking to collaborate on interesting projects in the realms of **data science** and **machine learning** along with its applications in finance and economics.
@@ -15,6 +16,7 @@
 
 - I have some experience with: **•Python •SQL •STATA (statistical software) •HTML&CSS •Javascript •Tableau •R**
 
+<div align="center">
 <br> 
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -23,7 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3"  alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;
-
+</div> 
 ---
 
 Here are a few projects I've worked on:
@@ -43,6 +45,8 @@ Here are a few projects I've worked on:
     - STATA: Statistical and Econometric Analysis of the determinants of **dealer profits** & variables that influence **earnings** (using multiple regression analysis and considering heteroskedasticity, multicollinearity, specification bias and more) 🏫 
     - HTML, CSS: Responsive web design projects
     - Swift & Xcode: The Sciences - IOS **educational app** (currently not maintained) 
+
+<div align="center">
   
 ![](https://komarev.com/ghpvc/?username=V-Mayya) 
 
