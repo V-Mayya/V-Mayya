@@ -43,6 +43,8 @@ Here are a few projects I've worked on:
     - HTML, CSS: Responsive web design projects
     - Swift & Xcode: The Sciences - IOS **educational app** (currently not maintained) 
 
+---
+
 <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=V-Mayya) 
