@@ -14,7 +14,6 @@
 
 - I have some experience with: **•Python •SQL •STATA (statistical software) •HTML&CSS •Javascript •Tableau •R**
 
-<div align="center">
 <br> 
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -23,7 +22,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3"  alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;
-</div> 
 
 ---
 
@@ -51,13 +49,6 @@ Here are a few projects I've worked on:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=V-Mayya&theme=nightfox&border_radius=30&hide_current_streak=true)](https://git.io/streak-stats)
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript"  alt="Javascript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3"  alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;
-  
 </div>
 
 <!---
