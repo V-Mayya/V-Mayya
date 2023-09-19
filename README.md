@@ -45,9 +45,7 @@ Here are a few projects I've worked on:
 
 ![](https://komarev.com/ghpvc/?username=V-Mayya) 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=V-Mayya&theme=dark&hide_current_streak=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Mayya)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=V-Mayya&theme=nightfox&border_radius=30&hide_current_streak=true)](https://git.io/streak-stats)
 
 <!---
 V-Mayya/V-Mayya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
