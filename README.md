@@ -1,4 +1,5 @@
-# Hi <img src="https://media.giphy.com/media/Q73tw53AU8VM83ao9B/giphy.gif" width="55" height="50" />  
+# Hi 
+<img src="https://media.giphy.com/media/Q73tw53AU8VM83ao9B/giphy.gif" width="55" height="50" />  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=I'm+V-Mayya+%F0%9F%91%A9;Economics+Student+%F0%9F%93%9A;Interested+in+Econometrics%2C;Data+Science%2C;Machine+Learning+%26+AI+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB!+)](https://git.io/typing-svg) 
 
