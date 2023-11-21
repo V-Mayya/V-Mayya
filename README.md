@@ -44,7 +44,7 @@ Here are a few projects I've worked on:
     - HTML, CSS: Responsive web design projects
     - Swift & Xcode: The Sciences - IOS **educational app** (currently not maintained) 
 
-Find about more about my work [here](https://vaibhavimayya.carrd.co/).
+Find out more about my work [here](https://vaibhavimayya.carrd.co/).
 
 ---
 <div align="center">  
