@@ -5,7 +5,6 @@
 
 <img src="chrisriedunsplash.jpeg" width="435" height="250" /> 
   
-- 🌱 I’m currently learning **SQL, Python and R**.
 - I’m looking to collaborate on interesting projects in the realms of **data science** and **machine learning** along with its applications in finance and economics.
 - 📫 You can reach me on: 
 
