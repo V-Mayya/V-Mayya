@@ -6,6 +6,7 @@
 <img src="chrisriedunsplash.jpeg" width="435" height="250" /> 
   
 - I’m looking to collaborate on interesting projects in the realms of **data science** and **machine learning** along with its applications in finance and economics.
+- My interests lie in econometrics (causal inference, time series, and microeconometrics), statistics, and programming.
 - 📫 You can reach me on: 
 
    <div id="badges"> <a href="https://www.linkedin.com/in/vaibhavi-c-mayya"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a></div> 
