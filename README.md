@@ -26,7 +26,7 @@
 
 ---
 
-Here are a few projects I've worked on (pinned repositories):
+Here are a few projects I've worked on (some pinned repositories [some are private repos]):
   
 - **Python:**
     - Resale Revolution - **web application** to address an issue faced by first generation low income students (with Matplotlib, Numpy, Pandas, SQLite, Streamlit and some HTML)
