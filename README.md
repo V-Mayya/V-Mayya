@@ -53,6 +53,8 @@ Find out more about my work [here](https://vaibhavimayya.carrd.co/). Find some o
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=V-Mayya&theme=nightfox&border_radius=30&hide_current_streak=true)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Mayya&hide_progress=true)
+
 </div>
 
 <!---
