@@ -55,6 +55,8 @@ Find out more about my work [here](https://vaibhavimayya.carrd.co/). Find some o
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Mayya&hide_progress=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Mayya)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <!---
