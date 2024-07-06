@@ -7,7 +7,7 @@
   
 - I’m looking to collaborate on interesting projects in the realms of **data science** and **machine learning** along with its applications in finance and economics.
 - My interests lie in **econometrics** (causal inference, time series, and microeconometrics), **statistics**, and **programming**.
-- 📫 You can reach me on: 
+- You can reach me on: 
 
    <div id="badges"> <a href="https://www.linkedin.com/in/vaibhavi-c-mayya"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a></div> 
 
@@ -30,17 +30,18 @@ Here are a few projects I've worked on (some pinned repositories and private rep
   
 - **Python:**
     - Resale Revolution - **web application** to address an issue faced by first generation low income students (with Matplotlib, Numpy, Pandas, SQLite, Streamlit and some HTML)
-    - **Sales data analysis** project (with Matplotlib and Numpy) 📈
+    - **Sales data analysis** project (with Matplotlib and Numpy)
  
 - **SQL:**
     - **Natural Disasters** & Economic Impact Project (after reading ‘Extreme Economies’)
-    - **F1 racing** MOOC challenge 🏎️
+    - **F1 racing** MOOC challenge 
 
 - **R:**
-    - Statistical modelling (distributed lag non-linear models & meta-regressions) focusing on the economic perspectives of **climate effects on health** (while working as a MITACs research intern) [R for DLNM] ⛅ 
+    - Statistical modelling (distributed lag non-linear models & meta-regressions) focusing on the economic perspectives of **climate effects on health** (while working as a MITACs research intern) [R for DLNM]  
  
 - **Others**:
-    - STATA: Statistical and Econometric Analysis of the determinants of **dealer profits** & variables that influence **earnings** (using multiple regression analysis and considering heteroskedasticity, multicollinearity, specification bias and more) 🏫 
+    - STATA: Discrete choice modelling (random coefficients/mixed and conditional logit models using MLE), based on the paper "Emissions Trading, Electricity Restructuring, and Investment in Pollution Abatement" by M. Fowlie
+    - STATA: Statistical and Econometric Analysis of the determinants of **dealer profits** & variables that influence **earnings** (using multiple regression analysis and considering heteroskedasticity, multicollinearity, specification bias and more)  
     - HTML, CSS: Responsive web design projects
     - Swift & Xcode: The Sciences - IOS **educational app** (currently not maintained) 
 
