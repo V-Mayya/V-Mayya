@@ -13,7 +13,7 @@
 
 ---
 
-- I have some experience with: **•Python •SQL •STATA (statistical software) •HTML&CSS •Javascript •Tableau •R**
+- I have experience with: **•Python •SQL •STATA (statistical software) •HTML&CSS •Javascript •Tableau •R**
 
 <br> 
 
@@ -26,7 +26,7 @@
 
 ---
 
-Here are a few projects I've worked on (some pinned repositories and some private repos):
+Here are a few projects I've worked on (some pinned repositories and private repos):
   
 - **Python:**
     - Resale Revolution - **web application** to address an issue faced by first generation low income students (with Matplotlib, Numpy, Pandas, SQLite, Streamlit and some HTML)
