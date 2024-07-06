@@ -40,7 +40,7 @@ Here are a few projects I've worked on (some pinned repositories and private rep
     - Statistical modelling (distributed lag non-linear models & meta-regressions) focusing on the economic perspectives of **climate effects on health** (while working as a MITACs research intern) [R for DLNM]  
  
 - **Others**:
-    - STATA: Discrete choice modelling (random coefficients/mixed and conditional logit models using MLE), based on the paper "Emissions Trading, Electricity Restructuring, and Investment in Pollution Abatement" by M. Fowlie
+    - STATA: **Discrete choice modelling** (random coefficients/mixed and conditional logit models using MLE), based on the paper "Emissions Trading, Electricity Restructuring, and Investment in Pollution Abatement" by M. Fowlie
     - STATA: Statistical and Econometric Analysis of the determinants of **dealer profits** & variables that influence **earnings** (using multiple regression analysis and considering heteroskedasticity, multicollinearity, specification bias and more)  
     - HTML, CSS: Responsive web design projects
     - Swift & Xcode: The Sciences - IOS **educational app** (currently not maintained) 
