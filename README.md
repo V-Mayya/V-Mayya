@@ -3,8 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=I'm+V-Mayya+%F0%9F%91%A9;Economics+Student+%F0%9F%93%9A;Interested+in+Econometrics%2C;Data+Science%2C;Machine+Learning+%26+AI+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB!+)](https://git.io/typing-svg) 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=I'm+V+Mayya;Interested+in+the+intersection+of;econometrics%2C+statistics%2C;data+science%2C+machine+learning+%26+AI!)](https://git.io/typing-svg)
-
 <img src="chrisriedunsplash.jpeg" width="435" height="250" /> 
   
 - I’m looking to collaborate on interesting projects in the realms of **data science** and **machine learning** along with its applications in finance and economics.
