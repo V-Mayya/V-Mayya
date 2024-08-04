@@ -37,7 +37,7 @@
 
 ---
 
-Here are a few projects I've worked on (pinned and private repositories):
+Here are a few projects I've worked on (pinned and private repos):
   
 - **Python:**
     - **Web app** to address an issue faced by first generation low income students (with Matplotlib, Numpy, Pandas, SQLite, Streamlit and some HTML) - Resale Revolution
@@ -56,7 +56,7 @@ Here are a few projects I've worked on (pinned and private repositories):
     - HTML, CSS: Responsive web design projects
     - Swift & Xcode: The Sciences - IOS **educational app** (currently not maintained) 
 
-Find out more about my work [here](https://vaibhavimayya.carrd.co/). Find some of my solutions to coding puzzles and challenges [here](https://github.com/V-Mayya/Python-SQLChallenges.git) 
+Find out more about my work [here](https://vaibhavimayya.carrd.co/). Find some of my attempts at puzzles and challenges [here](https://github.com/V-Mayya/Python-SQLChallenges.git) 
 
 ---
 <div align="center">  
