@@ -13,7 +13,7 @@
 
 ---
 
-- I have experience with: **•Python (Streamlit, Matplotlib, Plotly, NumPy, Pandas, Seaborn) •SQL •STATA (statistical software) •HTML&CSS •Javascript •Tableau •R (tidyverse, dplyr, ggplot2, plm, mixmeta, dlnm)**
+- I have experience with: **•Python** (Streamlit, Matplotlib, Plotly, NumPy, Pandas, Seaborn) **•SQL •STATA (statistical software) •HTML&CSS •Javascript •Tableau •R** (tidyverse, dplyr, ggplot2, plm, mixmeta, dlnm)**
 
 <br> 
 
