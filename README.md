@@ -32,7 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite"  alt="sqlite" width="40" height="40"/>&nbsp;
 
 
-- In addition to: **•Mathematical Statistics & Probability •Statistical Inference •Classical and Bayesian Statistics •Statistical Modelling •Machine learning •Causal inference**
+- In addition to: **•Mathematical Statistics & Probability •Inference & Modelling •Classical and Bayesian Statistics •Machine learning •Causal inference**
 
 ---
 
