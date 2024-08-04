@@ -31,6 +31,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda"  alt="anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite"  alt="sqlite" width="40" height="40"/>&nbsp;
 
+•Mathematical Statistics & Probability •Statistical Inference •Classical and Bayesian Statistics •Statistical Modelling •Cross-section, panel data models, fixed & random effects •Machine learning •Causal inference
+
 ---
 
 Here are a few projects I've worked on (pinned and private repositories):
