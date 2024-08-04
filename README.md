@@ -27,7 +27,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="streamlit"  alt="streamlit" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly"  alt="plotly" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy"  alt="numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="numpy"  alt="numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas"  alt="pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda"  alt="anaconda" width="40" height="40"/>&nbsp;
+ 
   
 ---
 
