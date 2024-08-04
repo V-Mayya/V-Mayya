@@ -52,7 +52,7 @@ Here are a few projects I've worked on (pinned and private repos):
  
 - **Others**:
     - STATA: **Discrete choice modelling** (random coefficients/mixed & conditional logit models using MLE), based on the paper "Emissions Trading, Electricity Restructuring, and Investment in Pollution Abatement" by M. Fowlie
-    - STATA: Statistical and Econometric Analysis of the determinants of **dealer profits** & variables that influence **earnings** (using multiple regression analysis and considering heteroskedasticity, multicollinearity, specification bias and more)  
+    - STATA: Statistical and Econometric Analysis of the determinants of **dealer profits** (using multiple regression analysis and considering heteroskedasticity, multicollinearity, specification bias and more)  
     - HTML, CSS: Responsive web design projects
     - Swift & Xcode: The Sciences - IOS **educational app** (currently not maintained) 
 
