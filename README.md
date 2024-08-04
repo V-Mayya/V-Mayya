@@ -13,7 +13,7 @@
 
 ---
 
-- I have experience with: **•Python •SQL •STATA •HTML&CSS •Javascript •Tableau •R** 
+- I have experience with: **•Python •R •SQL •STATA •HTML&CSS •Javascript •Tableau** 
 
 <br> 
 
