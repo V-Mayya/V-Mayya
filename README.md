@@ -33,7 +33,7 @@
 
 <br> 
 
-- In addition to: **•Mathematical Statistics & Probability •Inference & Modelling •Classical and Bayesian Statistics •Machine learning •Causal inference • STATA •Tableau**
+- In addition to: **•Mathematical Statistics & Probability •Inference & Modelling •Classical and Bayesian Statistics •Machine learning •Causal inference • STATA**
 
 ---
 
